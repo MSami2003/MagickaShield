@@ -1,7 +1,7 @@
 # Magicka Shield
 
 SKSE plugin which adds a Magicka Shield (i.e, Mana Shield) mechanic, made available in an ESL flagged mod through spells, enchanting and alchemy.
-[SSE/AE](https://www.nexusmods.com/skyrimspecialedition/mods/157162)
+[SSE/AE](https://www.nexusmods.com/skyrimspecialedition/mods/157126)
 
 ## Requirements
 * [CMake](https://cmake.org/)
